@@ -1,0 +1,4 @@
+cd ~/Descargas
+sudo apt install ./Packet_Tracer900_amd64_signed.deb
+sudo apt-get install -f   # por si faltan dependencias
+packettracer              # para lanzarlo
